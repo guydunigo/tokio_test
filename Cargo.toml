@@ -1,0 +1,9 @@
+[package]
+name = "tokio_test"
+version = "0.1.0"
+authors = ["GONI Guillaume <gdn3@live.fr>"]
+edition = "2018"
+
+[dependencies]
+tokio = "=0.1.13"
+bytes = "0.4.11"
